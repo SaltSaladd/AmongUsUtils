@@ -21,6 +21,8 @@ Utilities 🛠️:
 
 - [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Unlocks dlekS ehT (Reversed skeld). PC only
 
+- [Reactor API](https://github.com/NuclearPowered/Reactor) - Modding API. Technically supports all platforms except Xbox.
+
 ------
 Cheating 🐱‍💻:
 - ⭐ [SickoMenu](https://github.com/g0aty/SickoMenu) - A powerful 'utility' for Among Us that aims to improve the game experience. PC only
