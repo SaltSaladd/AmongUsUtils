@@ -23,7 +23,7 @@ Utilities 🛠️:
 
 ------
 Cheating 🐱‍💻:
-- ⭐ [Sickomenu](https://github.com/g0aty/SickoMenu) - A powerful 'utility' for Among Us that aims to improve the game experience. PC only
+- ⭐ [SickoMenu](https://github.com/g0aty/SickoMenu) - A powerful 'utility' for Among Us that aims to improve the game experience. PC only
 
 - ⭐ [MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules. Windows and Linux only. macOS support varies.
 
