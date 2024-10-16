@@ -15,6 +15,9 @@ List of useful among us utilites.
 
 ------
 Utilities 🛠️:
+
+- ⭐ [SickoMenu](https://github.com/g0aty/SickoMenu) - A powerful utility for Among Us that aims to improve the game experience. PC only
+
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - Variety of patches, such as unlocking all cosmetics, unlocking your FPS and more. PC only
 
 - [BetterAmongUs](https://github.com/EnhancedNetwork/BetterAmongUs-Public) - Client sided mod that enhances the experience. PC only
@@ -25,7 +28,6 @@ Utilities 🛠️:
 
 ------
 Cheating 🐱‍💻:
-- ⭐ [SickoMenu](https://github.com/g0aty/SickoMenu) - A powerful 'utility' for Among Us that aims to improve the game experience. PC only
 
 - ⭐ [MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules. Windows and Linux only. macOS support varies.
 
