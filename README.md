@@ -17,6 +17,10 @@ List of useful among us utilites.
 Utilities 🛠️:
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - Variety of patches, such as unlocking all cosmetics, unlocking your FPS and more. PC only
 
+- [BetterAmongUs](https://github.com/EnhancedNetwork/BetterAmongUs-Public) - Client sided mod that enhances the experience.
+
+- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Unlocks dlekS ehT (Reversed skeld)
+
 ------
 Cheating 🐱‍💻:
 - ⭐ [Sickomenu](https://github.com/g0aty/SickoMenu) - A powerful 'utility' for Among Us that aims to improve the game experience. PC only
