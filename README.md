@@ -1,9 +1,9 @@
 # AmongUsUtils
 
-List of useful among us utilites 
-PC means all operating systems unless specified 
+List of useful among us utilites.
 
 -----
+(PC means all computer operating systems unless specified) 
 
 #### Modded Lobbies ⚙️:
 
