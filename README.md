@@ -17,9 +17,9 @@ List of useful among us utilites.
 Utilities 🛠️:
 - [AUnlocker](https://github.com/astra1dev/AUnlocker) - Variety of patches, such as unlocking all cosmetics, unlocking your FPS and more. PC only
 
-- [BetterAmongUs](https://github.com/EnhancedNetwork/BetterAmongUs-Public) - Client sided mod that enhances the experience.
+- [BetterAmongUs](https://github.com/EnhancedNetwork/BetterAmongUs-Public) - Client sided mod that enhances the experience. PC only
 
-- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Unlocks dlekS ehT (Reversed skeld)
+- [Unlock dlekS ehT](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - Unlocks dlekS ehT (Reversed skeld). PC only
 
 ------
 Cheating 🐱‍💻:
