@@ -15,7 +15,7 @@ List of useful among us utilites.
 
 ------
 Utilities 🛠️:
-- [AUnlocker](https://github.com/astra1dev/AUnlocker) Variety of patches, such as unlocking all cosmetics, unlocking your FPS and more. PC only
+- [AUnlocker](https://github.com/astra1dev/AUnlocker) - Variety of patches, such as unlocking all cosmetics, unlocking your FPS and more. PC only
 
 ------
 Cheating 🐱‍💻:
